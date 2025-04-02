@@ -18,6 +18,7 @@ This project is a prototype version of AI chatbot application.
 
 ### Prerequisites
 - Python 3.8 or higher
+- brew https://brew.sh/ 
 - pip (Python package installer)
 - pipenv
 - Local Ollama setup. Follow this link for Ollama local setup: [Ollama Setup](https://medium.com/@abonia/ollama-and-langchain-run-llms-locally-900931914a46)
